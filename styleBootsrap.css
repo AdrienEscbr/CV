@@ -1,0 +1,56 @@
+
+
+#infos{
+    color: black;
+}
+
+li.liste{
+    margin-left: 10%;;
+}
+
+
+#nom{
+    font-size: 60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(100, 148, 237, 0.521);
+}
+
+.conteneur {
+    overflow:hidden;
+    margin-left: 10px;
+}
+
+.date{
+    float:left; 
+    display:inline;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.formation{
+    float:left; 
+    display:inline;
+    margin-left: 3%;
+    font-size: 15px; 
+    font-weight: bold;   
+}
+
+.ville{
+    float:left; 
+    display:inline;
+    font-size: 12px;
+}
+
+.ecole{
+    margin-left: 3%;
+    float:left; 
+    display:inline;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.texte{
+    margin-left: 15%;
+    color: rgb(43, 43, 199);
+}
+
